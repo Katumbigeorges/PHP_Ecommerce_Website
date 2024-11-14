@@ -15,7 +15,7 @@ This is a PHP-based e-commerce website that utilizes MySQL as the database. The 
    - product.php**: Displays product details.
    - product-category.php: Handles product categories.
 
-3. **Shopping Cart and Checkout:
+3. Shopping Cart and Checkout:
    - cart.php: Manages the shopping cart functionality.
    - cart-item-delete.php: Handles the deletion of items from the shopping cart.
    - checkout.php: Manages the checkout process.
