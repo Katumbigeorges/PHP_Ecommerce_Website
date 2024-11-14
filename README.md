@@ -7,12 +7,12 @@ This is a PHP-based e-commerce website that utilizes MySQL as the database. The 
 ## Key Features and Functionality
 
 1. User Authentication:
-   - login.php**: Handles user login.
+   - login.php: Handles user login.
    - registration.php**: Manages user registration.
    - forget-password.php**: Allows users to reset their passwords.
 
 2. Product Management:
-   - product.php**: Displays product details.
+   - product.php: Displays product details.
    - product-category.php: Handles product categories.
 
 3. Shopping Cart and Checkout:
