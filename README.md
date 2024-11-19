@@ -8,8 +8,8 @@ This is a PHP-based e-commerce website that utilizes MySQL as the database. The 
 
 1. User Authentication:
    - login.php: Handles user login.
-   - registration.php**: Manages user registration.
-   - forget-password.php**: Allows users to reset their passwords.
+   - registration.php: Manages user registration.
+   - forget-password.php: Allows users to reset their passwords.
 
 2. Product Management:
    - product.php: Displays product details.
